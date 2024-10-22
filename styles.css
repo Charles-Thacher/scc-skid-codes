@@ -1,0 +1,26 @@
+button {
+    background-color: bisque;
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+}
+
+.delete-buttons {
+    background-color: maroon;
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+}
+
+.add-buttons {
+    background-color: green;
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+}
